@@ -1,5 +1,5 @@
 # currency_detection_using_YOLO
-A simple currency note classifier using YOLOv8, which captures image from camera and converts the result to speech
+A currency note classifier using YOLOv8, which captures image from camera and converts the result to speech
 
 To create a similar model first you must have a dataset in YOLO classifier format
 
